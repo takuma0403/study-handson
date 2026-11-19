@@ -1,0 +1,5 @@
+.DS_Store
+*.log
+node_modules/
+.env
+# 各セッションの work/ 配下で生成される大きなファイルは必要に応じて追加
